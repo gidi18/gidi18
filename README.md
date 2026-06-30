@@ -25,7 +25,10 @@ I am an aspiring IT professional and current student focused on learning **Netwo
 
 ## 🎯 Current Focus & Learning Goals
 
-- 📜 Studying toward my core networking and cloud certifications.
+- 🐍 Learning Python fundamentals and automation scripts via **freecodecamp**
+- 🌐 Learning core routing, switching, and network protocols through the **Cisco** curriculum.
+- ☁️  Learning cloud infrastructure, Linux, and DevOps fundamentals using the **Learn to Cloud** roadmap.
+
 ---
 
 
